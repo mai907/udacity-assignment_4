@@ -12,10 +12,7 @@ log.txt
 .vscode/
 npm-debug.log*
 
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+
 .idea/
 .ionic/
 .sourcemaps/
