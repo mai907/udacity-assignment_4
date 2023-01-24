@@ -3,7 +3,7 @@ hosting web aplliction on AWS
 
 ## link for frontend 
 
-http://mai-udacity4.s3-website-us-east-1.amazonaws.com/home
+http://mai-udacity4.s3-website-us-east-1.amazonaws.com
 
 ## Documantion 
 Will be in document folder include 
